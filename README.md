@@ -15,7 +15,7 @@ A Django-based Employee Management System that performs all CRUD (Create, Read, 
 **Installation**
 
 1) Clone the repository:
-git clone https://github.com/yourusername/employee-management.git
+git clone https://github.com/vikrant_27/crudproject.git
 cd employee-management
 
 2) Create and activate a virtual environment:
