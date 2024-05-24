@@ -19,7 +19,7 @@ git clone https://github.com/vikrant-27/crudDjango.git
 
 cd employee-management
 
-3) Create and activate a virtual environment:
+2) Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
