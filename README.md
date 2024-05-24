@@ -15,10 +15,11 @@ A Django-based Employee Management System that performs all CRUD (Create, Read, 
 **Installation**
 
 1) Clone the repository:
-git clone https://github.com/vikrant_27/crudDjango.git
+git clone https://github.com/vikrant-27/crudDjango
+
 cd employee-management
 
-2) Create and activate a virtual environment:
+3) Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
