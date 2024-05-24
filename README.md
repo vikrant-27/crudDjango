@@ -35,8 +35,10 @@ python manage.py createsuperuser
 6)Run the development server:
 python manage.py runserver
 
+
 **Contributing**
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
+
 
 **Contact**
 If you have any questions or suggestions, feel free to contact me at [vikrant45.exe@gmail.com].
